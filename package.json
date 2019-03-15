@@ -1,0 +1,25 @@
+{
+    "name": "theme",
+    "displayName": "Dark+ bold",
+    "description": "Code that pops out at you.",
+    "version": "0.2.0",
+    "publisher": "sanchis",
+    "repository": {
+        "url": "https://github.com/sanchis/vscode-dark-bold"
+    },
+    "engines": {
+        "vscode": "^1.16.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark+ bold",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark_plus-bold.json"
+            }
+        ]
+    }
+}
