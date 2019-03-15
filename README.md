@@ -1,4 +1,4 @@
-# VSCode bold
+# Dark+ bold
 The purpose of this theme is to make crucial code easier to identify without compromising on style.
 
 All strings are much easier to see. It's easier to identify library and local functions. Logical operators and control flow statements are bolded to pinpoint code itention quicly.
