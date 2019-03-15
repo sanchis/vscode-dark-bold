@@ -1,5 +1,5 @@
 # Dark+ bold
-[Theme](https://marketplace.visualstudio.com/items?itemName=AdrianSanchisGallego.theme)
+[Theme](https://marketplace.visualstudio.com/items?itemName=AdrianSanchisGallego.dark-bold)
 
 The purpose of this theme is to make crucial code easier to identify without compromising on style.
 
