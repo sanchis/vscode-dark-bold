@@ -1,5 +1,5 @@
 # Dark+ bold
-https://marketplace.visualstudio.com/items?itemName=AdrianSanchisGallego.theme
+[Theme](https://marketplace.visualstudio.com/items?itemName=AdrianSanchisGallego.theme)
 
 The purpose of this theme is to make crucial code easier to identify without compromising on style.
 
@@ -13,4 +13,4 @@ All strings are much easier to see. It's easier to identify library and local fu
 
 Hope you enjoy my first theme!
 
-![Theme Preview](./preview.png?raw=true "Preview Image")
+![Theme Preview](https://github.com/sanchis/vscode-dark-bold/blob/master/preview.png?raw=true "Preview Image")
